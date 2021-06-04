@@ -1,6 +1,6 @@
 ### welcome to my github account ❤
 
-<a href="#"><img width="10" height="10" class="animated rotateIn" src="social-media.GIF" /></a>
+<a href="#"><img width="25" height="25" class="animated rotateIn" src="social-media.GIF" /></a>
     </ul>
 
 
