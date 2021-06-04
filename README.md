@@ -1,4 +1,4 @@
-### Hi there 👋
+### welcome to my github account 懶
 
 
 **mr-bad1700/mr-bad1700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
