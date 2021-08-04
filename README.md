@@ -7,6 +7,6 @@
 
 - 🌱 I Know **MySQL (95%), JavaScript (93%), Python (45%), EJS (100%), HTML5 & CSS3 (94%)**
 
-- 👨‍💻 [My Website](https://mrbad.glitch.me)
+- 👨‍💻 [My Website](https://mrbad.xyz)
 
 - 📫 How to reach me **matinnajat795@gmail.com**
